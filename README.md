@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Prashant Kamboj
 
-<!--
-**Prashantk-2107/Prashantk-2107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- Node.js
+- Express
+- PostgreSQL
+- MongoDB
+- Supabase
+- Docker
+- Git
+
+## 📌 Featured Projects
+
+### DevFlow
+Workspace & Project Management Platform
+
+### Kameti App
+Digital committee management system
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+## 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+## 📫 Connect
+
+- LinkedIn
+- Portfolio
+- Email
