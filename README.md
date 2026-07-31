@@ -69,13 +69,6 @@ Offline-first Electron Desktop Application
 
 ## 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prashantk-2107&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantk-2107&layout=compact&theme=tokyonight"/>
-
-</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=prashantk-2107&theme=tokyonight"/>
