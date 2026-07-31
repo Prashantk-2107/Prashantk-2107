@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prashant Kamboj</h1>
+<h1 align="center">Hi 👋, I'm Prashant</h1>
 <h3 align="center">Full Stack Developer | React • Node.js • Express • PostgreSQL</h3>
 
 <p align="center">
