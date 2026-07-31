@@ -78,7 +78,7 @@ Offline-first Electron Desktop Application
 
 ## 🤝 Connect With Me
 
-📧 prashantkamboj2107@gmail.com
+📧 Email - prashantkamboj2107@gmail.com
 
 💼 LinkedIn - www.linkedin.com/in/prashant210704
 
