@@ -95,8 +95,6 @@ Offline-first Electron Desktop Application
 
 💼 LinkedIn - www.linkedin.com/in/prashant210704
 
-🌐 Portfolio *(Add when ready)*
-
 ---
 
 ⭐ Thanks for visiting my profile!
