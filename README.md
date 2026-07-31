@@ -1,38 +1,102 @@
-# Hi 👋 I'm Prashant Kamboj
+<h1 align="center">Hi 👋, I'm Prashant Kamboj</h1>
+<h3 align="center">Full Stack Developer | React • Node.js • Express • PostgreSQL</h3>
 
-💻 Full Stack Developer
+<p align="center">
+  Passionate about building scalable web & desktop applications with modern technologies.
+</p>
 
-## 🚀 Tech Stack
+---
 
-- React
-- Node.js
-- Express
-- PostgreSQL
-- MongoDB
-- Supabase
-- Docker
-- Git
+## 🚀 About Me
+
+- 💼 Full Stack Developer
+- 🌱 Currently improving Backend Architecture, Docker & System Design
+- ⚡ Interested in Full Stack Development
+- 🎯 Goal: Build production-ready SaaS products
+- 📍 Jagadhri, Haryana, India
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![React](https://skillicons.dev/icons?i=react,vite,ts,js,html,css,tailwind)
+
+### Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
+
+### Database
+![Database](https://skillicons.dev/icons?i=postgres,mongodb,supabase,firebase)
+
+### Tools
+![Tools](https://skillicons.dev/icons?i=docker,git,github,postman)
+
+---
 
 ## 📌 Featured Projects
 
-### DevFlow
-Workspace & Project Management Platform
+### 🏢 WorkSphere
+Role-Based HRMS Platform
 
-### Kameti App
-Digital committee management system
+- Authentication (JWT + OTP)
+- RBAC
+- Employee Management
+- Attendance
+- Leave Management
+- PostgreSQL + Prisma
+
+---
+
+### 💰 Kameti Ledger
+
+Offline-first Electron Desktop Application
+
+- Member Management
+- Payment Tracking
+- SQLite + Prisma
+- Electron + React
+
+---
+
+### 📦 Inventory Management System
+
+- Supabase Authentication
+- Product Management
+- Stock Tracking
+- Cart & Checkout
+
+---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prashantk-2107&show_icons=true&theme=tokyonight"/>
 
-## 🔥 Streak
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantk-2107&layout=compact&theme=tokyonight"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+</p>
 
-## 📫 Connect
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=prashantk-2107&theme=tokyonight"/>
+</p>
 
-- LinkedIn
-- Portfolio
-- Email
+---
+
+## 📈 Activity Graph
+
+[![Prashant's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prashantk-2107&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🤝 Connect With Me
+
+📧 prashantkamboj2107@gmail.com
+
+💼 LinkedIn *(Add your profile link)*
+
+🌐 Portfolio *(Add when ready)*
+
+---
+
+⭐ Thanks for visiting my profile!
